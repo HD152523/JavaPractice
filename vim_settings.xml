@@ -1,0 +1,164 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/git/JavaPractice/src/org/dimigo/oop/CarTest3.java" timestamp="1490672586332">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="8" />
+        <mark key="." line="32" column="8" />
+      </file>
+      <file name="$USER_HOME$/git/JavaPractice/JavaPractice/src/org/dimigo/oop/Car2.java" timestamp="1490230542330">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/JavaClass/src/org/dimigo/basic/Book2.java" timestamp="1490228363585">
+        <mark key="[" line="18" column="14" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Jungol1/src/com/company/Main.java" timestamp="1490067037807">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/git/JavaPractice/JavaPractice/src/org/dimigo/oop/Car.java" timestamp="1490241329212">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="39" column="1" />
+        <mark key="^" line="21" column="4" />
+        <mark key="." line="39" column="1" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Model/Address.java" timestamp="1490163845776">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/JavaClass/src/org/dimigo/basic/Model/Address.java" timestamp="1490161061739">
+        <mark key="[" line="19" column="6" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/New1/src/Main.java" timestamp="1489923704164">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="14" column="56" />
+        <mark key="." line="14" column="56" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Practice/untitled/src/named.java" timestamp="1489892347427">
+        <mark key="[" line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/JavaClass/src/org/dimigo/basic/Book.java" timestamp="1490671118656">
+        <mark key="[" line="70" column="23" />
+        <mark key="]" line="69" column="24" />
+        <mark key="." line="69" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/JavaPractice/JavaPractice/src/org/dimigo/oop/Car3.java" timestamp="1490230610842">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/JavaClass/src/org/dimigo/basic/BookTest.java" timestamp="1490670576028">
+        <mark key="[" line="31" column="42" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Step2/app/src/main/java/com/example/junho/step2/MainActivity.java" timestamp="1490670223674">
+        <mark key="[" line="10" column="12" />
+      </file>
+      <file name="$USER_HOME$/Desktop/오준호/JAVA프로그래밍/Model/Address.java" timestamp="1490161332973">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1490670844853">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/JavaPractice/src/org/dimigo/oop/Car3.java" timestamp="1490672090954">
+        <mark key="[" line="44" column="58" />
+        <mark key="]" line="44" column="58" />
+        <mark key="." line="44" column="58" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="8" column="36" filename="$USER_HOME$/IdeaProjects/Jungol1/src/com/company/Main.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="4">
+        <text>car3.setCompany(&quot;삼성자동차&quot;);
+		car3.setModel(&quot;SM7&quot;);
+		car3.setColor(&quot;회색&quot;);
+		car3.setMaxSpeed(200);
+		car3.setPrice(38000000);</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>car3.setCompany(&quot;삼성자동차&quot;);
+		car3.setModel(&quot;SM7&quot;);
+		car3.setColor(&quot;회색&quot;);
+		car3.setMaxSpeed(200);
+		car3.setPrice(38000000);</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">U3lzdGVtLm91dC5wcmludGYoIjw8IMDatb/C9yC48bfPID4+XG5cbiIpOwoJCVN5c3RlbS5vdXQucHJpbnRsbigiwabBtrvnuO0gOiAiICsgY2FyLmdldENvbXBhbnkoKSk7CgkJU3lzdGVtLm91dC5wcmludGxuKCK48LWouO0gOiAiICsgY2FyLmdldE1vZGVsKCkpOwoJCVN5c3RlbS5vdXQucHJpbnRsbigiu/a78yA6ICIgKyBjYXIuZ2V0Q29sb3IoKSk7CgkJU3lzdGVtLm91dC5wcmludGxuKCLD1rTrvNO1tSA6ICIgKyBjYXIuZ2V0TWF4U3BlZWQoKSArICJrbSIpOwoJCVN5c3RlbS5vdXQucHJpbnRsbigisKGw3SA6ICIgKyBTdHJpbmcuZm9ybWF0KCIlLCBkIiwgY2FyLmdldFByaWNlKCkpICsgIr/4Iik7</text>
+      </register>
+      <register name="3" type="4">
+        <text>this.company = company;
+        this.model = model;
+        this.color = color;
+        this.maxSpeed = maxSpeed;</text>
+      </register>
+      <register name="4" type="4">
+        <text>public void setCompany(String newcompany){
+    	company = newcompany;
+    }
+    public void setModel(String newmodel){
+    	model = newmodel;
+    }
+    public void setColor(String newcolor){
+    	color = newcolor;
+    }
+    public void setMaxSpeed(int newmaxspeed){
+    	maxSpeed = newmaxspeed;
+    }
+    public void setPrice(int newprice){
+    	price = newprice;
+    }</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG1vZGVsID0gIsGms9e9w726IjsK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CnB1YmxpYyBjbGFzcyBjYXIyIHsKICAgIAp9</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgQWRkcmVzcygpIHsKICAgIH0=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIERlZmF1bHQgY29uc3RydWN0b3IKICAgICAqLwoKICAgIC8qKgogICAgICogCiAgICAgKi8=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgQWRkcmVzcygpIHsKICAgIH0=</text>
+      </register>
+      <register name="-" type="4">
+        <text>, int maxSpeed</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
