@@ -3,6 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/BookTest/src/Book.java" timestamp="1490769012529">
+        <mark key="[" line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/JavaClass/src/org/dimigo/basic/Book2.java" timestamp="1490228363585">
+        <mark key="[" line="18" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Model/Address.java" timestamp="1490163845776">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/JavaClass/src/org/dimigo/basic/Model/Address.java" timestamp="1490161061739">
+        <mark key="[" line="19" column="6" />
+      </file>
+      <file name="$USER_HOME$/git/JavaPractice/src/org/dimigo/oop/SnackTest.java" timestamp="1491438121366">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/JavaPractice/src/org/dimigo/oop/Book.java" timestamp="1491438515254" />
       <file name="$USER_HOME$/git/JavaPractice/src/org/dimigo/oop/CarTest3.java" timestamp="1490673238520">
         <mark key="[" line="32" column="8" />
         <mark key="]" line="32" column="8" />
@@ -12,12 +30,6 @@
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="24" />
         <mark key="." line="10" column="24" />
-      </file>
-      <file name="$USER_HOME$/git/BookTest/src/Book.java" timestamp="1490769012529">
-        <mark key="[" line="3" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/JavaClass/src/org/dimigo/basic/Book2.java" timestamp="1490228363585">
-        <mark key="[" line="18" column="14" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Jungol1/src/com/company/Main.java" timestamp="1490067037807">
         <mark key="[" line="8" column="0" />
@@ -29,14 +41,6 @@
         <mark key="]" line="39" column="1" />
         <mark key="^" line="21" column="4" />
         <mark key="." line="39" column="1" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Model/Address.java" timestamp="1490163845776">
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="7" />
-        <mark key="." line="10" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/JavaClass/src/org/dimigo/basic/Model/Address.java" timestamp="1490161061739">
-        <mark key="[" line="19" column="6" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/New1/src/Main.java" timestamp="1489923704164">
         <mark key="[" line="26" column="0" />
@@ -63,6 +67,12 @@
         <mark key="[" line="9" column="27" />
         <mark key="]" line="9" column="27" />
         <mark key="." line="9" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/JavaPractice/src/org/dimigo/oop/Snack.java" timestamp="1491439086215">
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="8" />
+        <mark key="^" line="17" column="11" />
+        <mark key="." line="26" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/JavaClass/src/org/dimigo/basic/BookTest.java" timestamp="1490670576028">
         <mark key="[" line="31" column="42" />
@@ -98,25 +108,32 @@
     </jumps>
     <registers>
       <register name="1" type="4">
+        <text>public String toString(){
+            return 
+        }</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>public String toString(){
+            return 
+        }</text>
+      </register>
+      <register name="2" type="4">
         <text>car3.setCompany(&quot;삼성자동차&quot;);
 		car3.setModel(&quot;SM7&quot;);
 		car3.setColor(&quot;회색&quot;);
 		car3.setMaxSpeed(200);
 		car3.setPrice(38000000);</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CQlmb3IoaW50IGkgPSAxO2k8MTAwMDAwO2krKyl7</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">U3lzdGVtLm91dC5wcmludGYoIjw8IMDatb/C9yC48bfPID4+XG5cbiIpOwoJCVN5c3RlbS5vdXQucHJpbnRsbigiwabBtrvnuO0gOiAiICsgY2FyLmdldENvbXBhbnkoKSk7CgkJU3lzdGVtLm91dC5wcmludGxuKCK48LWouO0gOiAiICsgY2FyLmdldE1vZGVsKCkpOwoJCVN5c3RlbS5vdXQucHJpbnRsbigiu/a78yA6ICIgKyBjYXIuZ2V0Q29sb3IoKSk7CgkJU3lzdGVtLm91dC5wcmludGxuKCLD1rTrvNO1tSA6ICIgKyBjYXIuZ2V0TWF4U3BlZWQoKSArICJrbSIpOwoJCVN5c3RlbS5vdXQucHJpbnRsbigisKGw3SA6ICIgKyBTdHJpbmcuZm9ybWF0KCIlLCBkIiwgY2FyLmdldFByaWNlKCkpICsgIr/4Iik7</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>this.company = company;
         this.model = model;
         this.color = color;
         this.maxSpeed = maxSpeed;</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>public void setCompany(String newcompany){
     	company = newcompany;
     }
@@ -133,20 +150,17 @@
     	price = newprice;
     }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG1vZGVsID0gIsGms9e9w726IjsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CnB1YmxpYyBjbGFzcyBjYXIyIHsKICAgIAp9</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgQWRkcmVzcygpIHsKICAgIH0=</text>
-      </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIERlZmF1bHQgY29uc3RydWN0b3IKICAgICAqLwoKICAgIC8qKgogICAgICogCiAgICAgKi8=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgQWRkcmVzcygpIHsKICAgIH0=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgQWRkcmVzcygpIHsKICAgIH0=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIERlZmF1bHQgY29uc3RydWN0b3IKICAgICAqLwoKICAgIC8qKgogICAgICogCiAgICAgKi8=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">CQlmb3IoaW50IGkgPSAxO2k8MTAwMDAwO2krKyl7</text>
@@ -174,6 +188,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
