@@ -43,6 +43,11 @@
         <mark key="]" line="14" column="56" />
         <mark key="." line="14" column="56" />
       </file>
+      <file name="$USER_HOME$/workspace/JavaClass/src/org/dimigo/oop/ArrayBasic.java" timestamp="1491437766221">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="$USER_HOME$/git/BookTest/src/Booktest.java" timestamp="1490769099266">
         <mark key="[" line="3" column="22" />
       </file>
@@ -67,6 +72,9 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Step2/app/src/main/java/com/example/junho/step2/MainActivity.java" timestamp="1490670223674">
         <mark key="[" line="10" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/JavaClass/src/org/dimigo/oop/Book.java" timestamp="1491437578484">
+        <mark key="[" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/오준호/JAVA프로그래밍/Model/Address.java" timestamp="1490161332973">
         <mark key="[" line="6" column="0" />
@@ -97,11 +105,7 @@
 		car3.setPrice(38000000);</text>
       </register>
       <register name="&quot;" type="4">
-        <text>car3.setCompany(&quot;삼성자동차&quot;);
-		car3.setModel(&quot;SM7&quot;);
-		car3.setColor(&quot;회색&quot;);
-		car3.setMaxSpeed(200);
-		car3.setPrice(38000000);</text>
+        <text encoding="base64">CQlmb3IoaW50IGkgPSAxO2k8MTAwMDAwO2krKyl7</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">U3lzdGVtLm91dC5wcmludGYoIjw8IMDatb/C9yC48bfPID4+XG5cbiIpOwoJCVN5c3RlbS5vdXQucHJpbnRsbigiwabBtrvnuO0gOiAiICsgY2FyLmdldENvbXBhbnkoKSk7CgkJU3lzdGVtLm91dC5wcmludGxuKCK48LWouO0gOiAiICsgY2FyLmdldE1vZGVsKCkpOwoJCVN5c3RlbS5vdXQucHJpbnRsbigiu/a78yA6ICIgKyBjYXIuZ2V0Q29sb3IoKSk7CgkJU3lzdGVtLm91dC5wcmludGxuKCLD1rTrvNO1tSA6ICIgKyBjYXIuZ2V0TWF4U3BlZWQoKSArICJrbSIpOwoJCVN5c3RlbS5vdXQucHJpbnRsbigisKGw3SA6ICIgKyBTdHJpbmcuZm9ybWF0KCIlLCBkIiwgY2FyLmdldFByaWNlKCkpICsgIr/4Iik7</text>
@@ -145,7 +149,7 @@
         <text encoding="base64">CiAgICBwdWJsaWMgQWRkcmVzcygpIHsKICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text>, int maxSpeed</text>
+        <text encoding="base64">CQlmb3IoaW50IGkgPSAxO2k8MTAwMDAwO2krKyl7</text>
       </register>
     </registers>
     <search>
